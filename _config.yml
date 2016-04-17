@@ -1,0 +1,14 @@
+layout_spectrum: 0.003737969
+typography_spectrum: 0.3266105
+color:
+  saturation: 0.8135608
+  lightness: 0.100091
+  brandStrength: 0.5399734
+  rhythmicContrast: 0.1599391
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 'Mancation '
